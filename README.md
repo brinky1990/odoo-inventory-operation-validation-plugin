@@ -1,0 +1,1 @@
+# odoo-inventory-operation-validation-plugin
